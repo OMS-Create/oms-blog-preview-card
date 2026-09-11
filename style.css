@@ -1,0 +1,93 @@
+    body {
+        background: hsl(47, 88%, 63%);
+        display: grid;
+        place-content: center;
+        min-height: 100vh;
+        padding: 24px;
+        margin: 0;
+        font-family: "Figtree", sans-serif;
+        font-weight: 500;
+    }
+
+    .card {
+        border: 1px solid hsl(0, 0%, 7%);
+        background: hsl(0, 0%, 100%);
+        border-radius: 20px;
+        padding: 24px;
+        width: 336px;
+        box-shadow: 8px 8px 8px hsl(0, 0%, 7%);
+        box-sizing: border-box;
+    }
+
+    .image {
+        border-radius: 10px;
+        overflow: hidden;
+        display: block;
+        width: 100%;
+    }
+
+    .learning {
+        background: hsl(47, 88%, 63%);
+        margin-top: 20px;
+        margin-bottom: 12px;
+        border: 0px solid;
+        width: fit-content;
+        padding: 4px 12px;
+        border-radius: 4px;
+        font-weight: 800;
+        font-size: 14px;
+        color: hsl(0, 0%, 7%);
+    }
+
+    .learning h5 {
+        margin: 0;
+        font-size: inherit;
+        font-weight: inherit;
+    }
+
+    .date {
+        font-size: 14px;
+        color: hsl(0, 0%, 7%);
+        margin-bottom: 12px;
+    }
+
+    .card header h2 {
+        font-size: 20px;
+        font-weight: 800;
+        color: hsl(0, 0%, 7%);
+        margin: 0 0 12px 0;
+        transition: color 0.2s;
+    }
+
+    .card header h2:hover {
+        color: hsl(47, 88%, 63%);
+        cursor: pointer;
+    }
+
+    .card p {
+        color: hsl(0, 0%, 42%);
+        font-size: 14px;
+        line-height: 1.5;
+        margin: 0 0 24px 0;
+    }
+
+    .avatar {
+        gap: 12px;
+        height: 32px;
+        align-items: center;
+        border-radius: 50px;
+        display: flex;
+    }
+
+    .avatar img {
+        width: 32px;
+        height: 32px;
+        border-radius: 50%;
+    }
+
+    .avatar p {
+        color: hsl(0, 0%, 7%);
+        font-weight: 800;
+        font-size: 14px;
+        margin: 0;
+    }
