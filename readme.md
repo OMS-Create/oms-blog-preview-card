@@ -5,9 +5,9 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 ## Table of contents
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
+  - [The challenge](#https://www.frontendmentor.io/challenges/blog-preview-card)
   - [Screenshot](#screenshot)
-  - [Links](#links)
+  - [Links](#oms-blog-preview-card.netlify.app)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution URL](oms-blog-preview-card.netlify.app)
+- Live Site URL: [live site URL](https://github.com/OMS-Create/oms-blog-preview-card)
 
 ## My process
 
